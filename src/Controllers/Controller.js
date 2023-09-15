@@ -3,7 +3,7 @@ module.exports={
         const response = await console.log('BANDAO')
 
         const obj = {
-            'nome': 'edson',
+            'nome': 'Jorge',
             'message': 'BANDAO'
         }
         
